@@ -4,28 +4,28 @@ Camp de Survie est un jeu de gestion stratégique développé en Python, simulan
 Le projet met l'accent sur la logique de jeu, la gestion d'états et la création d'une interface graphique simple avec Tkinter.
 
 ## Fonctionnalités Principales
-**   Gestion des Survivants :** Suivi dynamique des attributs de chaque survivant (santé, moral, fatigue, faim, soif) et de leurs compétences (force, précision).
+**• Gestion des Survivants :** Suivi dynamique des attributs de chaque survivant (santé, moral, fatigue, faim, soif) et de leurs compétences (force, précision).
 
 **• Gestion des Ressources :** Équilibre des stocks vitaux (eau, nourriture, munitions, médicaments, bois) qui sont consommés quotidiennement.
 
-** • Actions Stratégiques :**
+**• Actions Stratégiques :**
 
-   ** • Expédition :** Envoyer un survivant chercher des ressources aléatoires.
+   **• Expédition :** Envoyer un survivant chercher des ressources aléatoires.
 
-   ** • Recrutement :** Tenter de trouver de nouveaux survivants.
+   **• Recrutement :** Tenter de trouver de nouveaux survivants.
 
-   ** • Entraînement :** Améliorer les compétences du groupe.
+   **• Entraînement :** Améliorer les compétences du groupe.
 
-   ** • Conditions de Fin :** Le jeu s'arrête en cas de victoire (survie 30 jours) ou de défaite (mort de tous les survivants).
+   **• Conditions de Fin :** Le jeu s'arrête en cas de victoire (survie 30 jours) ou de défaite (mort de tous les survivants).
 
 ## Aspects Techniques
-** • Langage :** Python
+**• Langage :** Python
 
-** • Interface Graphique :** Tkinter (gestion des affichages, tableaux et boutons d'action).
+**• Interface Graphique :** Tkinter (gestion des affichages, tableaux et boutons d'action).
 
-** • Tests Unitaires :** Des tests ont été implémentés pour valider la robustesse de la logique de jeu (ex: consommation des ressources, création de survivants).
+**• Tests Unitaires :** Des tests ont été implémentés pour valider la robustesse de la logique de jeu (ex: consommation des ressources, création de survivants).
 
-** • Conception Modulaire :** Le code est structuré en fonctions claires, séparant la logique du jeu de l'interface graphique (UI) pour faciliter la maintenance et l'évolutivité.
+**• Conception Modulaire :** Le code est structuré en fonctions claires, séparant la logique du jeu de l'interface graphique (UI) pour faciliter la maintenance et l'évolutivité.
 
 ## Évolutions Possibles
 L'architecture actuelle est pensée pour permettre :
