@@ -4,9 +4,9 @@ Camp de Survie est un jeu de gestion stratégique développé en Python, simulan
 Le projet met l'accent sur la logique de jeu, la gestion d'états et la création d'une interface graphique simple avec Tkinter.
 
 ## Fonctionnalités Principales
-**  * Gestion des Survivants :** Suivi dynamique des attributs de chaque survivant (santé, moral, fatigue, faim, soif) et de leurs compétences (force, précision).
+**   Gestion des Survivants :** Suivi dynamique des attributs de chaque survivant (santé, moral, fatigue, faim, soif) et de leurs compétences (force, précision).
 
-** • Gestion des Ressources :** Équilibre des stocks vitaux (eau, nourriture, munitions, médicaments, bois) qui sont consommés quotidiennement.
+**• Gestion des Ressources :** Équilibre des stocks vitaux (eau, nourriture, munitions, médicaments, bois) qui sont consommés quotidiennement.
 
 ** • Actions Stratégiques :**
 
